@@ -23,12 +23,6 @@ H8_preprocessing.py
 ```
 
 
-### Training
-```
-pytohn3 main.py
-```
-
-
 ### Citation
 
 ```
