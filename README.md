@@ -27,7 +27,7 @@ H8_preprocessing.py
 
 ```
 @article{xx2025m4caster,
-  title={M4Caster: Multi-Source, Multi-Spatial, Multi-Temporal Modeling for Precipitation Nowcasting},
+  title={MambaRain: Multi-Scale Mamba-Attention Framework for 0-3 Hour Precipitation Nowcasting},
   author={xx, xx, xx, xx},
   journal={preprint xxxxx},
   year={2025}
